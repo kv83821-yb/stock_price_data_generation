@@ -2,7 +2,7 @@
 """
 Created on Sat Mar 14 14:46:21 2020
 
-@author: DELL
+@author: kv83821
 """
 import pandas as pd
 import yfinance as yf
